@@ -1,23 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "wooden_sign",
+  "group": "bed",
   "key": {
     "#": {
-      "item": "minecraft:oak_planks"
+      "tag": "minecraft:wool"
     },
     "X": {
-      "item": "minecraft:stick"
+      "tag": "minecraft:planks"
     }
   },
   "pattern": [
     "###",
-    "###",
-    " X "
+    "XXX"
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:oak_sign"
+    "item": "minecraft:red_bed"
   },
   "show_notification": true
 }
