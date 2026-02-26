@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "Slimybeta",
+  "category": "misc",
+  "pattern": [
+    "www",
+    "ppp"
+  ],
+  "key": {
+    "w": {
+      "tag": "minecraft:wool"
+    },
+    "p": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "id": "minecraft:red_bed",
+    "count": 1
+  }
+}
