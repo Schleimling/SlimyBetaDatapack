@@ -1,20 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "redstone",
-  "group": "wooden_door",
+  "category": "misc",
+  "group": "boat",
   "key": {
     "#": {
-      "item": "minecraft:oak_planks"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
-    "##",
-    "##",
-    "##"
+    "###",
+    "###",
+    "###"
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:oak_door"
+    "item": "minecraft:stick"
   },
   "show_notification": true
 }

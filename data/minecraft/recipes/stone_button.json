@@ -1,16 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "redstone",
-  "pattern": [
-    "a",
-    "a"
-  ],
+  "category": "misc",
+  "group": "boat",
   "key": {
-    "a": {
-      "item": "stone"
+    "#": {
+      "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:stone_button"
-  }
+    "item": "minecraft:stick"
+  },
+  "show_notification": true
 }

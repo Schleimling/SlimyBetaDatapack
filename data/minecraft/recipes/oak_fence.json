@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "wooden_fence",
+  "group": "boat",
   "key": {
     "#": {
       "item": "minecraft:stick"
@@ -9,11 +9,11 @@
   },
   "pattern": [
     "###",
+    "###",
     "###"
   ],
   "result": {
-    "count": 2,
-    "item": "minecraft:oak_fence"
+    "item": "minecraft:stick"
   },
   "show_notification": true
 }

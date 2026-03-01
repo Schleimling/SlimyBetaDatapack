@@ -1,23 +1,19 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "magenta_dye",
-  "ingredients": [
-    {
-      "item": "minecraft:blue_dye"
-    },
-    {
-      "item": "minecraft:red_dye"
-    },
-    {
-      "item": "minecraft:red_dye"
-    },
-    {
-      "item": "minecraft:bone_meal"
+  "group": "boat",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
     }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
   ],
   "result": {
-    "count": 4,
-    "item": "minecraft:magenta_dye"
-  }
+    "item": "minecraft:stick"
+  },
+  "show_notification": true
 }

@@ -1,23 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "wooden_sign",
+  "group": "boat",
   "key": {
     "#": {
-      "item": "minecraft:oak_planks"
-    },
-    "X": {
       "item": "minecraft:stick"
     }
   },
   "pattern": [
     "###",
     "###",
-    " X "
+    "###"
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:oak_sign"
+    "item": "minecraft:stick"
   },
   "show_notification": true
 }

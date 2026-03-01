@@ -1,18 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "group": "wooden_slab",
+  "category": "misc",
+  "group": "boat",
   "key": {
     "#": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
+    "###",
+    "###",
     "###"
   ],
   "result": {
-    "count": 3,
-    "item": "minecraft:oak_slab"
+    "item": "minecraft:stick"
   },
   "show_notification": true
 }

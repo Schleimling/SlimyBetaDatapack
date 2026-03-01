@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "building",
+  "category": "misc",
+  "group": "boat",
   "key": {
-    "#": [
-      {
-        "item": "minecraft:sandstone"
-      }
-    ]
+    "#": {
+      "item": "minecraft:stick"
+    }
   },
   "pattern": [
+    "###",
+    "###",
     "###"
   ],
   "result": {
-    "count": 3,
-    "item": "minecraft:sandstone_slab"
+    "item": "minecraft:stick"
   },
   "show_notification": true
 }
